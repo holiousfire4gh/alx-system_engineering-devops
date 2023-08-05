@@ -1,3 +1,2 @@
-# Magic file for school data files
-0 string SCHOOL
+0	string	SCHOOL	School data file
 !:mime school

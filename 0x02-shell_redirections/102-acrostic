@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "your_input_string" | cut -c <start_index>-<end_index> | paste -s -d " " -
